@@ -15,10 +15,6 @@ const App = () => {
     <JobListings/>
     <ViewAllJobs/>
 
-  
-   
-
-  
     </>
   )
 }
